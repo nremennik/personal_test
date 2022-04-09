@@ -1,4 +1,4 @@
-package org.orinions.analyst.models;
+package org.opinions.analyst.models;
 
 // import org.springframework.security.core.GrantedAuthority;
 

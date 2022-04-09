@@ -1,4 +1,4 @@
-package org.orinions.analyst;
+package org.opinions.analyst;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

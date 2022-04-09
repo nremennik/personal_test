@@ -1,8 +1,8 @@
-package org.orinions.analyst.controllers;
+package org.opinions.analyst.controllers;
 
-import org.orinions.analyst.exeptions.ResourceNotFoundExeption;
-import org.orinions.analyst.models.User;
-import org.orinions.analyst.repositories.UserRepository;
+import org.opinions.analyst.exeptions.ResourceNotFoundExeption;
+import org.opinions.analyst.models.User;
+import org.opinions.analyst.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

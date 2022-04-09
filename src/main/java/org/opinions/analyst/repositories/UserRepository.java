@@ -1,6 +1,6 @@
-package org.orinions.analyst.repositories;
+package org.opinions.analyst.repositories;
 
-import org.orinions.analyst.models.User;
+import org.opinions.analyst.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long>
